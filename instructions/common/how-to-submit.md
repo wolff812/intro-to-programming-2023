@@ -13,7 +13,7 @@ where # at the end is the number pull request.  Example: samSmith's very first p
 `https://github.com/samSmith/fenrir-intro/pull/1`
 
 ## Step 3: Click "Submit" and you're done!
-You should receive feedback from your reviewer within a week of submitting.  If you do not receive feedback within a week, let your Cohort Instructional Leader know via Slack message or by emailing them.  Your class email should look like this: _classname_@codethedream.org.  Your feedback will be a comment on your pull request.
+You should receive feedback from your reviewer within a week of submitting.  If you do not receive feedback within a week, let your Cohort Instructional Leader know via Slack message or by emailing them.  Your class email should look like this: _classname_@codethedream.org where _classname_ is whatever your class is called (example: Freyr, Ganymede, etc.).  Your feedback will be a comment on your pull request.
 
 ---
 
