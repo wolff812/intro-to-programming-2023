@@ -17,7 +17,7 @@ This assignment will teach you the following:
 
 Fork this GitHub repository to create your own working version:
 
-**Note:** You'll be forking the freyr-intro repository NOT the eridanus-intro repository as shown in the image below
+**Note:** You'll be forking the intro-to-programming-2023 repository NOT the eridanus-intro repository as shown in the image below
 
 ![Fork Assignment: Step 1](../assets/fork-assignment/fork-step-1.png)
 
@@ -43,14 +43,14 @@ Clone this repository so that the code is available on your local machine:
 
 Navigate to the directory you just cloned in your terminal:
 
-    cd freyr-intro
+    cd intro-to-programming-2023
     
 Check to be sure you've got the correct GitHub repository linked to your local folder by running the following command in your terminal
 
     git remote -v
 
 After running the above command, you should see the next two lines in your terminal where `<url>` is the address of your forked copy of the repository 
-(which should look like `https://github.com/yourGitHubUsername/classname-intro.git`):
+(which should look like `https://github.com/yourGitHubUsername/intro-to-programming-2023.git`):
 
     origin <url> (fetch)
     origin <url> (push)
